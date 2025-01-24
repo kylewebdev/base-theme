@@ -28,7 +28,7 @@ A modern WordPress starter theme built with webpack, Tailwind CSS, and React, de
 
     ```bash
     cd wp-content/themes
-    git clone https://github.com/your-username/base-2024.git your-theme-name
+    git clone https://github.com/your-username/base-theme.git ./your-theme-name
     ```
 
 2. Install dependencies:
